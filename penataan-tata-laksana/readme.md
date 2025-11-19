@@ -18,5 +18,9 @@ Menata prosedur kerja agar lebih sederhana, efisien, dan terdigitalisasi. Tata l
 
 ---
 
+## [KUMPULAN STANDAR OPERASIONAL PROSEDUR](./kumpulan-standar-operasional-prosedur.md)
+
+---
+
 **Catatan Penting:**  
 Setiap area saling melengkapi. Manajemen perubahan membangun budaya, tata laksana menata sistem, SDM memperkuat kompetensi, akuntabilitas memastikan capaian terukur, pengawasan menjaga integritas, dan kualitas pelayanan menghadirkan kepuasan publik. Sinergi keenam area inilah yang menjadi fondasi kokoh bagi terwujudnya Zona Integritas di MTs Negeri 1 Pandeglang.

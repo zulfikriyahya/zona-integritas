@@ -56,3 +56,15 @@ Pelayanan publik terpadu yang efisien dan terintegrasi, mencakup layanan adminis
 ### Pengawasan dan Pengendalian
 
 Pengawasan berkala oleh tim internal untuk memastikan seluruh kegiatan berjalan sesuai prinsip Zona Integritas, dengan evaluasi dan tindak lanjut terhadap setiap temuan.
+
+---
+
+## REFERENSI PERATURAN & PEDOMAN
+
+### Regulasi Utama:
+
+1. [KMA_186_2017](./dasar-hukum/KMA_186_2017.pdf)
+2. [PermenPAN-RB No. 52 Tahun 2014](./dasar-hukum/PermenPAN-RB-No.-52-Tahun-2014.pdf)
+3. [PermenPAN-RB No. 10 Tahun 2019](./dasar-hukum/PermenPAN-RB-No.-10-Tahun-2019.pdf)
+4. [PermenPAN-RB No. 90 Tahun 2021](./dasar-hukum/PermenPAN-RB-No.-90-Tahun-2021.pdf)
+5. [PermenPAN-RB No. 5 Tahun 2024](./dasar-hukum/PermenPAN-RB-No.-5-Tahun-2024.pdf)

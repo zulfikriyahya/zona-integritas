@@ -15,6 +15,46 @@ Zona Integritas di MTs Negeri 1 Pandeglang bertujuan untuk:
 
 ---
 
+## Diagram Zona Integritas
+
+```mermaid
+---
+config:
+  theme: neo
+  layout: elk
+  look: neo
+---
+flowchart TB
+    A(["Zona Integritas MTsN 1 Pandeglang"]) --> B["Tujuan ZI"]
+    B --> B1["Efisiensi & efektivitas pelayanan publik"]
+    B --> B2["Budaya kerja jujur & transparan"]
+    B --> B3["Pencegahan KKN"]
+    B --> B4["Kepercayaan masyarakat"]
+
+    A --> C["Komponen ZI"]
+    C --> C1["Manajemen Perubahan"]
+    C --> C2["Penataan Tata Laksana"]
+    C --> C3["Penataan Sistem Manajemen SDM"]
+    C --> C4["Penguatan Akuntabilitas Kinerja"]
+    C --> C5["Penguatan Pengawasan"]
+    C --> C6["Penguatan Kualitas Pelayanan Publik"]
+
+    A --> D["Program Kerja ZI"]
+    D --> D1["Pendidikan Antikorupsi"]
+    D --> D2["Pelayanan Publik Terpadu"]
+    D --> D3["Pengawasan & Pengendalian"]
+
+    %% Hubungan antar komponen dan program
+    C1 --> D1
+    C2 --> D2
+    C3 --> D2
+    C4 --> D3
+    C5 --> D3
+    C6 --> D2
+```
+
+---
+
 ## Komponen Zona Integritas
 
 ### [Manajemen Perubahan](./manajemen-perubahan)

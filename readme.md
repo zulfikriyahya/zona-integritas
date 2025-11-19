@@ -53,25 +53,25 @@ flowchart LR
     C6 --> D2
 
     %% Styling warna
-    style A fill:#ffcc00,stroke:#333,stroke-width:2px,color:#000
-    style B fill:#66ccff,stroke:#333,stroke-width:2px,color:#000
-    style B1 fill:#cce5ff,stroke:#333,color:#000
-    style B2 fill:#cce5ff,stroke:#333,color:#000
-    style B3 fill:#cce5ff,stroke:#333,color:#000
-    style B4 fill:#cce5ff,stroke:#333,color:#000
+    style A fill:#FFD700,stroke:#333,stroke-width:2px,color:#000
+    style B fill:#87CEEB,stroke:#333,stroke-width:2px,color:#000
+    style B1 fill:#E0FFFF,stroke:#333,color:#000
+    style B2 fill:#E0FFFF,stroke:#333,color:#000
+    style B3 fill:#E0FFFF,stroke:#333,color:#000
+    style B4 fill:#E0FFFF,stroke:#333,color:#000
 
-    style C fill:#99ff99,stroke:#333,stroke-width:2px,color:#000
-    style C1 fill:#e6ffe6,stroke:#333,color:#000
-    style C2 fill:#e6ffe6,stroke:#333,color:#000
-    style C3 fill:#e6ffe6,stroke:#333,color:#000
-    style C4 fill:#e6ffe6,stroke:#333,color:#000
-    style C5 fill:#e6ffe6,stroke:#333,color:#000
-    style C6 fill:#e6ffe6,stroke:#333,color:#000
+    style C fill:#90EE90,stroke:#333,stroke-width:2px,color:#000
+    style C1 fill:#F0FFF0,stroke:#333,color:#000
+    style C2 fill:#F0FFF0,stroke:#333,color:#000
+    style C3 fill:#F0FFF0,stroke:#333,color:#000
+    style C4 fill:#F0FFF0,stroke:#333,color:#000
+    style C5 fill:#F0FFF0,stroke:#333,color:#000
+    style C6 fill:#F0FFF0,stroke:#333,color:#000
 
-    style D fill:#ff9999,stroke:#333,stroke-width:2px,color:#000
-    style D1 fill:#ffe6e6,stroke:#333,color:#000
-    style D2 fill:#ffe6e6,stroke:#333,color:#000
-    style D3 fill:#ffe6e6,stroke:#333,color:#000
+    style D fill:#FF7F7F,stroke:#333,stroke-width:2px,color:#000
+    style D1 fill:#FFE4E1,stroke:#333,color:#000
+    style D2 fill:#FFE4E1,stroke:#333,color:#000
+    style D3 fill:#FFE4E1,stroke:#333,color:#000
 
 ```
 

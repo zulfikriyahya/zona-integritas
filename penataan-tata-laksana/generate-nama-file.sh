@@ -1,4 +1,3 @@
-#!/usr/bin/env bash
 set -euo pipefail
 
 OUTPUT_DIR="file-sop-madrasah"
@@ -49,11 +48,11 @@ titles=(
 
 slugify() {
   local s="$1"
-  s="$(echo "$s" | tr '[:upper:]' '[:lower:]')"          # lowercase
-  s="$(echo "$s" | sed 's/[()\/]//g')"                   # remove () and /
-  s="$(echo "$s" | sed 's/[^a-z0-9]\+/-/g')"             # non-alphanumeric -> -
-  s="$(echo "$s" | sed 's/-\{2,\}/-/g')"                 # collapse multiple -
-  s="$(echo "$s" | sed 's/^-//; s/-$//')"                # trim leading/trailing -
+  s="$(echo "$s" | tr '[:upper:]' '[:lower:]')"
+  s="$(echo "$s" | sed 's/[()\/]//g')"
+  s="$(echo "$s" | sed 's/[^a-z0-9]\+/-/g')"
+  s="$(echo "$s" | sed 's/-\{2,\}/-/g')"
+  s="$(echo "$s" | sed 's/^-//; s/-$//')"
   echo "$s.md"
 }
 

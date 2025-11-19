@@ -60,7 +60,7 @@ slugify() {
 for t in "${titles[@]}"; do
   filename="$(slugify "$t")"
   filepath="$OUTPUT_DIR/$filename"
-  touch "$filepath"
+  echo "<!-- TODO: $filename -->" > "$filepath"
   echo "Created: $filepath"
 done
 

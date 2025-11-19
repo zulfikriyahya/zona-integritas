@@ -1,0 +1,1 @@
+<!-- TODO: penghapusan-barang.md -->

@@ -2,53 +2,57 @@
 
 ## Pengenalan
 
-Zona Integritas (ZI) adalah sebuah konsep yang diterapkan di MTs Negeri 1 Pandeglang untuk menciptakan lingkungan yang bersih dari korupsi dan membangun budaya kerja yang jujur dan transparan. Zona Integritas ini bertujuan untuk meningkatkan kepercayaan masyarakat terhadap lembaga pendidikan dan memastikan pelayanan yang berkualitas.
+Zona Integritas (ZI) adalah komitmen MTs Negeri 1 Pandeglang untuk menciptakan lingkungan pendidikan yang bersih dari korupsi, kolusi, dan nepotisme, serta membangun budaya kerja yang jujur, transparan, dan profesional. Penerapan ZI bertujuan meningkatkan kepercayaan masyarakat terhadap madrasah sekaligus memastikan pelayanan publik yang berkualitas.
 
 ### Tujuan Zona Integritas
 
 Zona Integritas di MTs Negeri 1 Pandeglang bertujuan untuk:
 
-1.  Meningkatkan efisiensi dan efektivitas pelayanan publik.
-2.  Membangun budaya kerja yang jujur dan transparan.
-3.  Mencegah praktik korupsi, kolusi, dan nepotisme.
-4.  Meningkatkan kepercayaan masyarakat terhadap lembaga pendidikan.
+1. Meningkatkan efisiensi dan efektivitas pelayanan publik.
+2. Membangun budaya kerja yang jujur, transparan, dan berintegritas.
+3. Mencegah praktik korupsi, kolusi, dan nepotisme.
+4. Meningkatkan kepercayaan masyarakat terhadap lembaga pendidikan.
+
+---
 
 ## Komponen Zona Integritas
 
-### Manajemen Perubahan
+### [Manajemen Perubahan](./manajemen-perubahan/readme.md)
 
-Manajemen perubahan dilakukan untuk mengubah pola pikir dan budaya kerja di lingkungan MTs Negeri 1 Pandeglang. Langkah-langkah yang diambil meliputi:
+Mengubah pola pikir dan budaya kerja di lingkungan madrasah melalui sosialisasi, pelatihan, dan pembentukan agen perubahan. Fokus utamanya adalah membangun komitmen bersama dan kesiapan seluruh pegawai dalam mendukung transformasi menuju ZI.
 
-- Sosialisasi dan pendidikan tentang Zona Integritas.
-- Pelatihan dan pengembangan kapasitas pegawai.
-- Peningkatan kesadaran tentang pentingnya integritas.
+### [Penataan Tata Laksana](./penataan-tata-laksana/readme.md)
 
-### Penguatan Akuntabilitas
+Menata sistem dan prosedur kerja agar lebih sederhana, efisien, dan terdigitalisasi. Meliputi penyusunan SOP, peta proses bisnis, sistem dokumentasi, serta penerapan e-office untuk meningkatkan kualitas administrasi.
 
-Penguatan akuntabilitas bertujuan untuk meningkatkan transparansi dan akuntabilitas dalam setiap aspek pelayanan di MTs Negeri 1 Pandeglang. Langkah-langkah yang diambil meliputi:
+### [Penataan Sistem Manajemen SDM](./penataan-sistem-manajemen-sdm/readme.md)
 
-- Penyusunan dan publikasi laporan kinerja.
-- Pengawasan internal yang ketat.
-- Pelaporan dan evaluasi secara berkala.
+Mengelola sumber daya manusia secara profesional melalui perencanaan kebutuhan pegawai, rekrutmen transparan, pengembangan kompetensi, penilaian kinerja objektif, serta sistem reward and punishment yang jelas.
 
-### Peningkatan Kualitas Pelayanan Publik
+### [Penguatan Akuntabilitas Kinerja](./penguatan-akuntabilitas-kinerja/readme.md)
 
-Peningkatan kualitas pelayanan publik bertujuan untuk memberikan layanan yang berkualitas dan memuaskan kepada masyarakat. Langkah-langkah yang diambil meliputi:
+Meningkatkan akuntabilitas melalui perencanaan, pelaksanaan, dan evaluasi kinerja yang terukur. Meliputi penyusunan RKT, KPI, laporan kinerja, serta pelaksanaan monitoring dan evaluasi berkala.
 
-- Penyediaan layanan yang cepat, tepat, dan akurat.
-- Penggunaan teknologi informasi untuk mendukung pelayanan.
-- Monitoring dan evaluasi pelayanan secara berkala.
+### [Penguatan Pengawasan](./penguatan-pengawasan/readme.md)
+
+Memperkuat sistem pengawasan internal untuk mencegah penyimpangan. Dilakukan melalui audit internal, penerapan SPIP, mekanisme whistleblowing system, serta koordinasi dengan pengawas eksternal.
+
+### [Penguatan Kualitas Pelayanan Publik](./penguatan-sistem-kualitas-pelayanan/readme.md)
+
+Meningkatkan mutu layanan kepada siswa, orang tua, dan masyarakat dengan standar pelayanan yang jelas, inovasi berbasis teknologi, survei kepuasan pelanggan, serta pelatihan service excellence bagi pegawai.
+
+---
 
 ## Program Kerja Zona Integritas
 
 ### Pendidikan Antikorupsi
 
-MTs Negeri 1 Pandeglang melaksanakan program pendidikan antikorupsi untuk siswa dan pegawai. Program ini bertujuan untuk meningkatkan kesadaran dan pemahaman tentang bahaya korupsi serta mendorong perilaku yang jujur dan berintegritas.
+Program pendidikan antikorupsi bagi siswa dan pegawai untuk meningkatkan kesadaran tentang bahaya korupsi serta mendorong perilaku jujur dan berintegritas.
 
 ### Pelayanan Publik Terpadu
 
-MTs Negeri 1 Pandeglang menerapkan pelayanan publik terpadu yang terintegrasi dan efisien. Program ini mencakup berbagai layanan administratif dan informasi yang dapat diakses oleh siswa, orang tua, dan masyarakat dengan mudah.
+Pelayanan publik terpadu yang efisien dan terintegrasi, mencakup layanan administratif dan informasi yang mudah diakses oleh siswa, orang tua, dan masyarakat.
 
 ### Pengawasan dan Pengendalian
 
-Pengawasan dan pengendalian dilakukan secara berkala untuk memastikan pelaksanaan Zona Integritas berjalan dengan baik. Pengawasan dilakukan oleh tim internal yang bertugas untuk memantau dan mengevaluasi setiap kegiatan yang terkait dengan Zona Integritas.
+Pengawasan berkala oleh tim internal untuk memastikan seluruh kegiatan berjalan sesuai prinsip Zona Integritas, dengan evaluasi dan tindak lanjut terhadap setiap temuan.

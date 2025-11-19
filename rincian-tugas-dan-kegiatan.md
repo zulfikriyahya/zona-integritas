@@ -2,6 +2,9 @@
 
 ## 1. Area Manajemen Perubahan
 
+**Deskripsi:**  
+Membangun budaya kerja baru yang profesional, transparan, dan berintegritas. Fokus pada perubahan mindset pegawai serta komitmen bersama dalam mewujudkan Zona Integritas.
+
 **Tugas dan Kegiatan:**
 
 - Membentuk tim manajemen perubahan di tingkat madrasah
@@ -15,7 +18,12 @@
 - Mendokumentasikan best practices dan lesson learned
 - Membangun komitmen bersama melalui deklarasi integritas
 
+---
+
 ## 2. Area Penataan Tata Laksana
+
+**Deskripsi:**  
+Menata prosedur kerja agar lebih sederhana, efisien, dan terdigitalisasi. Tata laksana yang tertib memudahkan koordinasi antar unit dan meningkatkan kualitas administrasi.
 
 **Tugas dan Kegiatan:**
 
@@ -30,7 +38,12 @@
 - Menerapkan e-office atau sistem administrasi digital
 - Evaluasi dan perbaikan berkelanjutan terhadap tata laksana
 
+---
+
 ## 3. Area Penataan Sistem Manajemen SDM
+
+**Deskripsi:**  
+Mengelola sumber daya manusia secara profesional melalui perencanaan kebutuhan, rekrutmen transparan, pengembangan kompetensi, dan penilaian kinerja objektif.
 
 **Tugas dan Kegiatan:**
 
@@ -45,7 +58,12 @@
 - Melakukan rotasi dan mutasi berbasis kompetensi
 - Membangun sistem mentoring dan coaching internal
 
+---
+
 ## 4. Area Penguatan Akuntabilitas Kinerja
+
+**Deskripsi:**  
+Meningkatkan akuntabilitas melalui perencanaan, pelaksanaan, dan evaluasi kinerja yang terukur serta laporan yang transparan.
 
 **Tugas dan Kegiatan:**
 
@@ -60,7 +78,12 @@
 - Menyusun Laporan Akuntabilitas Kinerja Instansi Pemerintah (LAKIP)
 - Melakukan survei kepuasan internal terhadap pencapaian kinerja
 
+---
+
 ## 5. Area Penguatan Pengawasan
+
+**Deskripsi:**  
+Memperkuat sistem pengawasan internal agar potensi penyimpangan dapat dicegah sejak dini, serta menindaklanjuti temuan dengan perbaikan nyata.
 
 **Tugas dan Kegiatan:**
 
@@ -75,7 +98,12 @@
 - Menyusun laporan hasil pengawasan
 - Melakukan koordinasi dengan pengawas eksternal (Inspektorat, BPK)
 
+---
+
 ## 6. Area Penguatan Sistem Kualitas Pelayanan
+
+**Deskripsi:**  
+Berorientasi pada peningkatan mutu layanan kepada siswa, orang tua, dan masyarakat dengan standar pelayanan yang jelas, inovasi teknologi, serta survei kepuasan pelanggan.
 
 **Tugas dan Kegiatan:**
 
@@ -94,5 +122,5 @@
 
 ---
 
-**Catatan Penting:**
-Setiap area saling terkait dan mendukung satu sama lain. Implementasi yang efektif memerlukan komitmen dari seluruh pimpinan dan pegawai MTs Negeri 1 Pandeglang, serta monitoring berkelanjutan untuk memastikan semua program berjalan sesuai rencana dan memberikan dampak positif terhadap kualitas layanan pendidikan.
+**Catatan Penting:**  
+Setiap area saling melengkapi. Manajemen perubahan membangun budaya, tata laksana menata sistem, SDM memperkuat kompetensi, akuntabilitas memastikan capaian terukur, pengawasan menjaga integritas, dan kualitas pelayanan menghadirkan kepuasan publik. Sinergi keenam area inilah yang menjadi fondasi kokoh bagi terwujudnya Zona Integritas di MTs Negeri 1 Pandeglang.

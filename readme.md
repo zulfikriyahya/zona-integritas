@@ -17,27 +17,27 @@ Zona Integritas di MTs Negeri 1 Pandeglang bertujuan untuk:
 
 ## Komponen Zona Integritas
 
-### [Manajemen Perubahan](./manajemen-perubahan/readme.md)
+### [Manajemen Perubahan](./manajemen-perubahan)
 
 Mengubah pola pikir dan budaya kerja di lingkungan madrasah melalui sosialisasi, pelatihan, dan pembentukan agen perubahan. Fokus utamanya adalah membangun komitmen bersama dan kesiapan seluruh pegawai dalam mendukung transformasi menuju ZI.
 
-### [Penataan Tata Laksana](./penataan-tata-laksana/readme.md)
+### [Penataan Tata Laksana](./penataan-tata-laksana)
 
 Menata sistem dan prosedur kerja agar lebih sederhana, efisien, dan terdigitalisasi. Meliputi penyusunan SOP, peta proses bisnis, sistem dokumentasi, serta penerapan e-office untuk meningkatkan kualitas administrasi.
 
-### [Penataan Sistem Manajemen SDM](./penataan-sistem-manajemen-sdm/readme.md)
+### [Penataan Sistem Manajemen SDM](./penataan-sistem-manajemen-sdm)
 
 Mengelola sumber daya manusia secara profesional melalui perencanaan kebutuhan pegawai, rekrutmen transparan, pengembangan kompetensi, penilaian kinerja objektif, serta sistem reward and punishment yang jelas.
 
-### [Penguatan Akuntabilitas Kinerja](./penguatan-akuntabilitas-kinerja/readme.md)
+### [Penguatan Akuntabilitas Kinerja](./penguatan-akuntabilitas-kinerja)
 
 Meningkatkan akuntabilitas melalui perencanaan, pelaksanaan, dan evaluasi kinerja yang terukur. Meliputi penyusunan RKT, KPI, laporan kinerja, serta pelaksanaan monitoring dan evaluasi berkala.
 
-### [Penguatan Pengawasan](./penguatan-pengawasan/readme.md)
+### [Penguatan Pengawasan](./penguatan-pengawasan)
 
 Memperkuat sistem pengawasan internal untuk mencegah penyimpangan. Dilakukan melalui audit internal, penerapan SPIP, mekanisme whistleblowing system, serta koordinasi dengan pengawas eksternal.
 
-### [Penguatan Kualitas Pelayanan Publik](./penguatan-sistem-kualitas-pelayanan/readme.md)
+### [Penguatan Kualitas Pelayanan Publik](./penguatan-sistem-kualitas-pelayanan)
 
 Meningkatkan mutu layanan kepada siswa, orang tua, dan masyarakat dengan standar pelayanan yang jelas, inovasi berbasis teknologi, survei kepuasan pelanggan, serta pelatihan service excellence bagi pegawai.
 

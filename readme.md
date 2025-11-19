@@ -24,7 +24,7 @@ config:
   layout: elk
   look: neo
 ---
-flowchart TB
+flowchart LR
     A(["Zona Integritas MTsN 1 Pandeglang"]) --> B["Tujuan ZI"]
     B --> B1["Efisiensi & efektivitas pelayanan publik"]
     B --> B2["Budaya kerja jujur & transparan"]

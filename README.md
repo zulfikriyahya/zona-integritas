@@ -96,3 +96,6 @@
 
 **Catatan Penting:**
 Setiap area saling terkait dan mendukung satu sama lain. Implementasi yang efektif memerlukan komitmen dari seluruh pimpinan dan pegawai MTs Negeri 1 Pandeglang, serta monitoring berkelanjutan untuk memastikan semua program berjalan sesuai rencana dan memberikan dampak positif terhadap kualitas layanan pendidikan.
+
+*Project Team:*
+https://www.mermaidchart.com/app/teams/4603b3f1-9348-4377-9633-d84e07bee1a0

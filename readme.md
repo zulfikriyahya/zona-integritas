@@ -51,6 +51,28 @@ flowchart LR
     C4 --> D3
     C5 --> D3
     C6 --> D2
+
+    %% Styling warna
+    style A fill:#ffcc00,stroke:#333,stroke-width:2px,color:#000
+    style B fill:#66ccff,stroke:#333,stroke-width:2px,color:#000
+    style B1 fill:#cce5ff,stroke:#333,color:#000
+    style B2 fill:#cce5ff,stroke:#333,color:#000
+    style B3 fill:#cce5ff,stroke:#333,color:#000
+    style B4 fill:#cce5ff,stroke:#333,color:#000
+
+    style C fill:#99ff99,stroke:#333,stroke-width:2px,color:#000
+    style C1 fill:#e6ffe6,stroke:#333,color:#000
+    style C2 fill:#e6ffe6,stroke:#333,color:#000
+    style C3 fill:#e6ffe6,stroke:#333,color:#000
+    style C4 fill:#e6ffe6,stroke:#333,color:#000
+    style C5 fill:#e6ffe6,stroke:#333,color:#000
+    style C6 fill:#e6ffe6,stroke:#333,color:#000
+
+    style D fill:#ff9999,stroke:#333,stroke-width:2px,color:#000
+    style D1 fill:#ffe6e6,stroke:#333,color:#000
+    style D2 fill:#ffe6e6,stroke:#333,color:#000
+    style D3 fill:#ffe6e6,stroke:#333,color:#000
+
 ```
 
 ![Diagram Zona Integritas](./diagram-zona-integritas.svg)

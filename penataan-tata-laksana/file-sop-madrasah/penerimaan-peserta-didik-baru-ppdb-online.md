@@ -49,38 +49,34 @@ SOP ini berlaku untuk:
 
 ## 5. JALUR PENERIMAAN
 
-### A. JALUR ZONASI (50% dari daya tampung)
+### A. JALUR REGULER (70% dari daya tampung)
 
 **Persyaratan:**
 
 1. Akta kelahiran atau surat keterangan lahir
 2. Kartu Keluarga (KK)
 3. Ijazah SD/MI atau Surat Keterangan Lulus
-4. Rapor kelas IV, V, dan VI semester 1-2
-5. Surat Keterangan Domisili (jika KK tidak sesuai)
-6. Pas foto 3x4 (3 lembar)
+4. Surat Keterangan Domisili (jika KK tidak sesuai)
+5. Pas foto 3x4 (3 lembar)
 
 **Kriteria:**
 
-- Jarak tempat tinggal ke madrasah (radius maksimal 5 km)
-- Jika melebihi kuota, diurutkan berdasarkan jarak terdekat
-- Jika jarak sama, diurutkan berdasarkan usia (lebih tua diprioritaskan)
+- Nilai Tes: 100%
 
 ---
 
-### B. JALUR PRESTASI (20% dari daya tampung)
+### B. JALUR PRESTASI (15% dari daya tampung)
 
 **Persyaratan Umum:**
 
 1. Akta kelahiran
 2. Kartu Keluarga
 3. Ijazah SD/MI atau Surat Keterangan Lulus
-4. Rapor kelas IV, V, dan VI semester 1-2
-5. Pas foto 3x4 (3 lembar)
+4. Pas foto 3x4 (3 lembar)
 
 **Persyaratan Khusus:**
 
-- **Prestasi Akademik**: Rata-rata rapor minimal 85 (semester 10-12)
+- **Prestasi Akademik**: Rata-rata rapor minimal 85 (semester 10–12)
 - **Prestasi Non-Akademik**: Piagam/sertifikat kejuaraan minimal tingkat kabupaten
   - Juara 1: tambah 10 poin
   - Juara 2: tambah 7 poin
@@ -92,9 +88,9 @@ SOP ini berlaku untuk:
 
 **Kriteria Penilaian:**
 
-- Nilai rapor: 60%
+- Nilai tes: 60%
 - Prestasi kejuaraan: 25%
-- Hafalan Al-Qur'an: 15%
+- Hafalan Al-Qur’an: 15%
 
 ---
 
@@ -105,10 +101,9 @@ SOP ini berlaku untuk:
 1. Akta kelahiran
 2. Kartu Keluarga
 3. Ijazah SD/MI atau Surat Keterangan Lulus
-4. Rapor kelas IV, V, dan VI
-5. Surat Keterangan Tidak Mampu (SKTM) dari Kelurahan/Desa
-6. Kartu Program Penanganan Kemiskinan (PKH/KIP/KKS)
-7. Pas foto 3x4 (3 lembar)
+4. Surat Keterangan Tidak Mampu (SKTM) dari Kelurahan/Desa
+5. Kartu Program Penanganan Kemiskinan (PKH/KIP/KKS)
+6. Pas foto 3x4 (3 lembar)
 
 **Kriteria:**
 
@@ -116,27 +111,6 @@ SOP ini berlaku untuk:
 - Pemegang Kartu Keluarga Sejahtera (KKS)
 - Penerima Bantuan Sosial PKH
 - Anak yatim/piatu/yatim piatu
-
----
-
-### D. JALUR PERPINDAHAN TUGAS ORANG TUA (5% dari daya tampung)
-
-**Persyaratan:**
-
-1. Persyaratan umum (akta, KK, ijazah, rapor, foto)
-2. Surat Keterangan Perpindahan Tugas Orang Tua dari instansi
-3. SK Mutasi/Penugasan
-4. Surat Pernyataan dari orang tua
-
----
-
-### E. JALUR PRESTASI MADRASAH (10% dari daya tampung)
-
-**Persyaratan:**
-
-1. Persyaratan umum
-2. Anak kandung guru/tenaga kependidikan MTs Negeri 1 Pandeglang
-3. Surat Keterangan dari Kepala Madrasah
 
 ---
 
@@ -301,62 +275,57 @@ SOP ini berlaku untuk:
 
 **Tahun Pelajaran 2025/2026:**
 
-- Total Daya Tampung: 240 siswa (6 rombel @ 40 siswa)
+- Total Daya Tampung: 320 siswa (10 rombel @ 32 siswa)
 
 **Pembagian per Jalur:**
 | Jalur | Kuota | Persentase |
-|-------|-------|------------|
-| Zonasi | 120 siswa | 50% |
-| Prestasi | 48 siswa | 20% |
-| Afirmasi | 36 siswa | 15% |
-| Perpindahan Tugas Ortu | 12 siswa | 5% |
-| Prestasi Madrasah | 24 siswa | 10% |
-| **TOTAL** | **240 siswa** | **100%** |
+|-----------|-------------|------------|
+| Reguler | 224 siswa | 70% |
+| Prestasi | 48 siswa | 15% |
+| Afirmasi | 48 siswa | 15% |
+| **TOTAL** | **320 siswa** | **100%** |
 
 ---
 
 ## 8. DIAGRAM ALUR PPDB
 
-```
-MULAI
-  ↓
-PERSIAPAN (Pembentukan Panitia, Penetapan Kuota)
-  ↓
-SOSIALISASI (Website, Media Sosial, Kunjungan SD/MI)
-  ↓
-PENDAFTARAN ONLINE (7 hari)
-  ↓
-Calon Siswa Akses Portal → Isi Formulir → Upload Dokumen → Submit
-  ↓
-VERIFIKASI BERKAS (3 hari)
-  ↓
-Datang ke Madrasah → Cek Berkas Asli → Verifikasi
-  ↓
-Berkas Lengkap & Valid? → TIDAK → Perbaikan (Max 1 hari)
-  ↓ YA                           ↓
-SELEKSI & PENILAIAN (2 hari)       ↓
-  ↓                              ↓
-Hitung Skor → Ranking → Passing Grade
-  ↓
-PENGUMUMAN (1 hari)
-  ↓
-Website, SMS, Papan Pengumuman
-  ↓
-DITERIMA? → TIDAK → SELESAI
-  ↓ YA
-DAFTAR ULANG (3 hari)
-  ↓
-Serah Berkas Asli → Isi Formulir → Bayar Seragam → Foto → Pakta Integritas
-  ↓
-Daftar Ulang? → TIDAK → Panggil Cadangan
-  ↓ YA                    ↓
-MPLS (3 hari)                ↓
-  ↓                         ↓
-Pengenalan Madrasah → Pembagian Kelas
-  ↓
-MULAI PEMBELAJARAN
-  ↓
-SELESAI
+```mermaid
+---
+config:
+  theme: neo
+  layout: elk
+  look: neo
+---
+flowchart TB
+    A(["MULAI"]) --> B["PERSIAPAN (Pembentukan Panitia, Penetapan Kuota)"]
+    B --> C["SOSIALISASI (Website, Media Sosial, Kunjungan SD/MI)"]
+    C --> D["PENDAFTARAN ONLINE (7 hari)"]
+    D --> E["Calon Siswa Akses Portal → Isi Formulir → Upload Dokumen → Submit"]
+    E --> F["VERIFIKASI BERKAS (3 hari)"]
+    F --> G["Datang ke Madrasah → Cek Berkas Asli → Verifikasi"]
+
+    G -- Lengkap & Valid? --> H{"Lengkap & Valid?"}
+    H -- TIDAK --> I["Perbaikan (Max 1 hari)"]
+    H -- YA --> J["SELEKSI & PENILAIAN (2 hari)"]
+
+    J --> K["Hitung Skor → Ranking → Passing Grade"]
+    K --> L["PENGUMUMAN (1 hari)"]
+    L --> M["Website, SMS, Papan Pengumuman"]
+
+    M -- DITERIMA? --> N{"DITERIMA?"}
+    N -- TIDAK --> O(["SELESAI"])
+    N -- YA --> P["DAFTAR ULANG (3 hari)"]
+
+    P --> Q["Serah Berkas Asli → Isi Formulir → Bayar Seragam → Foto → Pakta Integritas"]
+
+    Q -- Daftar Ulang? --> R{"Daftar Ulang?"}
+    R -- TIDAK --> S["Panggil Cadangan"]
+    R -- YA --> T["MPLS (3 hari)"]
+
+    T --> U["Pengenalan Madrasah → Pembagian Kelas"]
+    U --> V["MULAI PEMBELAJARAN"]
+    V --> W(["SELESAI"])
+
 ```
 
 ---

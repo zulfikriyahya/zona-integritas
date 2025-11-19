@@ -243,41 +243,34 @@ Pelayanan administrasi siswa meliputi:
 
 ## 7. DIAGRAM ALUR PELAYANAN ADMINISTRASI SISWA
 
-```
-MULAI
-  ↓
-Siswa/Ortu Datang ke Loket TU
-  ↓
-Menyampaikan Keperluan
-  ↓
-Staf TU Menjelaskan Prosedur
-  ↓
-Siswa Mengisi Formulir
-  ↓
-Menyerahkan Dokumen Pendukung
-  ↓
-Staf TU Verifikasi Kelengkapan
-  ↓
-Lengkap? → TIDAK → Minta Dilengkapi
-  ↓ YA              ↓
-Proses Sesuai Jenis Layanan
-  ↓
-- Buku Induk: Input data
-- Kartu Pelajar: Cetak & laminasi
-- Update Data: Edit sistem
-- Pencarian Data: Cek arsip
-  ↓
-Verifikasi Kepala TU
-  ↓
-Sesuai? → TIDAK → Perbaikan
-  ↓ YA        ↓
-Pengesahan (jika perlu)
-  ↓
-Penyerahan Hasil ke Pemohon
-  ↓
-TTD Bukti Penerimaan
-  ↓
-SELESAI
+```mermaid
+---
+config:
+  theme: neo
+  layout: elk
+  look: neo
+---
+flowchart TB
+    A(["MULAI"]) --> B["Siswa/Ortu Datang ke Loket TU"]
+    B --> C["Menyampaikan Keperluan"]
+    C --> D["Staf TU Menjelaskan Prosedur"]
+    D --> E["Siswa Mengisi Formulir"]
+    E --> F["Menyerahkan Dokumen Pendukung"]
+    F --> G["Staf TU Verifikasi Kelengkapan"]
+    G -- Lengkap? --> H{"Lengkap?"}
+    H -- TIDAK --> I["Minta Dilengkapi"]
+    H -- YA --> J["Proses Sesuai Jenis Layanan"]
+    J --> J1["Buku Induk: Input data"] & J2["Kartu Pelajar: Cetak & laminasi"] & J3["Update Data: Edit sistem"] & J4["Pencarian Data: Cek arsip"]
+    J1 --> K["Verifikasi Kepala TU"]
+    J2 --> K
+    J3 --> K
+    J4 --> K
+    K --> L{"Sesuai?"}
+    L -- TIDAK --> M["Perbaikan"]
+    L -- YA --> N["Pengesahan jika perlu"]
+    N --> O["Penyerahan Hasil ke Pemohon"]
+    O --> P["TTD Bukti Penerimaan"]
+    P --> Q(["SELESAI"])
 ```
 
 ---

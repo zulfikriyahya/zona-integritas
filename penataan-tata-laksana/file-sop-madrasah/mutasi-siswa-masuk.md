@@ -97,9 +97,9 @@ SOP ini mengatur:
 
 ### C. Kelas yang Menerima Mutasi:
 
-✅ **Kelas VII**: Dapat diterima (Semester 1 & 2)
-✅ **Kelas VIII**: Dapat diterima (Semester 1 & 2)  
-⚠️ **Kelas IX**: Semester 1 saja (kecuali kondisi darurat)
+**Kelas VII**: Dapat diterima (Semester 1 & 2)
+**Kelas VIII**: Dapat diterima (Semester 1 & 2)  
+**Kelas IX**: Semester 1 saja (kecuali kondisi darurat)
 
 ### D. Kriteria Penolakan:
 
@@ -277,64 +277,50 @@ Jika ada perbedaan kurikulum antara sekolah asal dan MTs Negeri 1 Pandeglang:
 
 ## 10. DIAGRAM ALUR MUTASI MASUK
 
-```
-MULAI
-  ↓
-Orang Tua Konsultasi ke TU
-  ↓
-Penjelasan Prosedur & Syarat
-  ↓
-Ambil Formulir Permohonan
-  ↓
-Isi Formulir & Lengkapi Berkas (3-7 hari)
-  ↓
-Serahkan Berkas ke TU
-  ↓
-Cek Kelengkapan Berkas
-  ↓
-Lengkap? → TIDAK → Minta Dilengkapi (Max 7 hari)
-  ↓ YA                   ↓
-Verifikasi Dokumen           ↓
-  ↓                         ↓
-- Cek Keaslian
-- Konfirmasi Sekolah Asal
-- Analisis Nilai
-  ↓
-Rapat Tim Mutasi
-  ↓
-Keputusan Kepala Madrasah
-  ↓
-DITERIMA? → TIDAK → Surat Penolakan & Kembalikan Berkas
-  ↓ YA                   ↓
-Surat Penerimaan          SELESAI
-  ↓
-Pemberitahuan ke Ortu (Via HP/WA)
-  ↓
-DAFTAR ULANG (Max 3 hari)
-  ↓
-- Serah Dokumen Asli
-- Isi Biodata
-- Foto
-- Pemberian NIS
-- Penempatan Kelas
-- Pakta Integritas
-  ↓
-REGISTRASI ADMINISTRASI
-  ↓
-- Input Buku Induk
-- Input Dapodik/EMIS
-- File Pribadi Siswa
-  ↓
-ORIENTASI & ADAPTASI
-  ↓
-- Tur Madrasah
-- Kenalan Teman & Guru
-- Tes Diagnostik
-- Program Penyetaraan (jika perlu)
-  ↓
-MULAI PEMBELAJARAN
-  ↓
-SELESAI
+```mermaid
+---
+config:
+  theme: neo
+  layout: elk
+---
+flowchart TB
+    A(["MULAI"]) --> B["Orang Tua Konsultasi ke TU"]
+    B --> C["Penjelasan Prosedur & Syarat"]
+    C --> D["Ambil Formulir Permohonan"]
+    D --> E["Isi Formulir & Lengkapi Berkas +- 3-7 hari"]
+    E --> F["Serahkan Berkas ke TU"]
+    F --> G["Cek Kelengkapan Berkas"]
+    G --> H{"Lengkap?"}
+    H -- TIDAK --> I["Minta Dilengkapi Max. 7 hari"]
+    H -- YA --> J["Verifikasi Dokumen"]
+    J --> J1["Cek Keaslian"] & J2["Konfirmasi Sekolah Asal"] & J3["Analisis Nilai"]
+    J1 --> K["Rapat Tim Mutasi"]
+    J2 --> K
+    J3 --> K
+    K --> L["Keputusan Kepala Madrasah"]
+    L --> M{"DITERIMA?"}
+    M -- TIDAK --> N["Surat Penolakan & Kembalikan Berkas"]
+    M -- YA --> O["Surat Penerimaan"]
+    N --> P(["SELESAI"])
+    O --> Q["Pemberitahuan ke Orang Tua Via HP/WA"]
+    Q --> R["DAFTAR ULANG Max. 3 hari"]
+    R --> R1["Serah Dokumen Asli"] & R2["Isi Biodata"] & R3["Foto"] & R4["Pemberian NIS"] & R5["Penempatan Kelas"] & R6["Pakta Integritas"]
+    R1 --> S["REGISTRASI ADMINISTRASI"]
+    R2 --> S
+    R3 --> S
+    R4 --> S
+    R5 --> S
+    R6 --> S
+    S --> S1["Input Buku Induk"] & S2["Input Dapodik/EMIS"] & S3["File Pribadi Siswa"]
+    S1 --> T["ORIENTASI & ADAPTASI"]
+    S2 --> T
+    S3 --> T
+    T --> T1["Tur Madrasah"] & T2["Kenalan Teman & Guru"] & T3["Tes Diagnostik"] & T4["Program Penyetaraan jika perlu"]
+    T1 --> U["MULAI PEMBELAJARAN"]
+    T2 --> U
+    T3 --> U
+    T4 --> U
+    U --> V(["SELESAI"])
 ```
 
 ---

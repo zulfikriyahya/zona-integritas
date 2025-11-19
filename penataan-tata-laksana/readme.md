@@ -16,9 +16,7 @@ Menata prosedur kerja agar lebih sederhana, efisien, dan terdigitalisasi. Tata l
 - Menerapkan e-office atau sistem administrasi digital
 - Evaluasi dan perbaikan berkelanjutan terhadap tata laksana
 
----
-
-## [KUMPULAN STANDAR OPERASIONAL PROSEDUR](./kumpulan-standar-operasional-prosedur.md)
+### [KUMPULAN STANDAR OPERASIONAL PROSEDUR](./kumpulan-standar-operasional-prosedur.md)
 
 ---
 

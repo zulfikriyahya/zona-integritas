@@ -53,6 +53,8 @@ flowchart LR
     C6 --> D2
 ```
 
+![Diagram Zona Integritas](./diagram-zona-integritas.svg)
+
 ---
 
 ## Komponen Zona Integritas

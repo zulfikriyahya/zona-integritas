@@ -74,3 +74,7 @@ Pengawasan berkala oleh tim internal untuk memastikan seluruh kegiatan berjalan 
 3. [PermenPAN-RB No. 10 Tahun 2019](./dasar-hukum/PermenPAN-RB-No.-10-Tahun-2019.pdf)
 4. [PermenPAN-RB No. 90 Tahun 2021](./dasar-hukum/PermenPAN-RB-No.-90-Tahun-2021.pdf)
 5. [PermenPAN-RB No. 5 Tahun 2024](./dasar-hukum/PermenPAN-RB-No.-5-Tahun-2024.pdf)
+
+### Diagram Generator
+
+- [Mermaid](https://www.mermaidchart.com/app/teams/4603b3f1-9348-4377-9633-d84e07bee1a0)

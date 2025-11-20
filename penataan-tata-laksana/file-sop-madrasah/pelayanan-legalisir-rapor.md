@@ -360,7 +360,7 @@ Kepada Kepala Madrasah:
 
 ## 12. HAL PENTING
 
-### ✅ YANG HARUS DIPERHATIKAN:
+### YANG HARUS DIPERHATIKAN:
 
 **Bagi Petugas:**
 
@@ -376,7 +376,7 @@ Kepada Kepala Madrasah:
 - Sebutkan keperluan dengan jelas
 - Ambil tepat waktu sesuai pemberitahuan
 
-### ❌ YANG DILARANG:
+### YANG DILARANG:
 
 - Memalsukan nilai rapor
 - Menggunakan rapor orang lain
@@ -452,8 +452,8 @@ Jika ada masalah dalam pelayanan legalisir rapor:
 
 **Hubungi:**
 
-- Kepala TU: [Nomor HP]
-- Waka Kurikulum: [Nomor HP]
+- Kepala TU: +62 8953-5185-6267
+- Waka Kurikulum: +62 8953-5185-6267
 - Email: pengaduan@mtsn1pandeglang.sch.id
 - Datang langsung ke ruang TU
 

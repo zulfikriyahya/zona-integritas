@@ -125,7 +125,7 @@ flowchart TB
 
 ### A. Untuk Pengunjung:
 
-✅ **WAJIB:**
+**WAJIB:**
 
 1. Menunjukkan kartu anggota perpustakaan
 2. Menitipkan tas di loker yang disediakan
@@ -135,7 +135,7 @@ flowchart TB
 6. Melapor ke petugas jika menemukan buku rusak
 7. Mengisi buku tamu
 
-❌ **DILARANG:**
+**DILARANG:**
 
 1. Membawa makanan dan minuman ke ruang baca
 2. Merusak, mencoret, atau merobek buku

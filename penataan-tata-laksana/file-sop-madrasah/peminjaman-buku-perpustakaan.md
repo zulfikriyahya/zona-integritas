@@ -332,7 +332,7 @@ Email: tu@mtsn1pandeglang.sch.id
 
 Untuk informasi lebih lanjut atau pengaduan, hubungi:
 
-- **Kepala TU**: [Nama] - [Nomor HP]
+- **Kepala TU**: [Nama] - +62 8953-5185-6267
 - **Email**: pengaduan@mtsn1pandeglang.sch.id
 - **WhatsApp**: [Nomor WA Pengaduan]
 - **Website**: www.mtsn1pandeglang.sch.id

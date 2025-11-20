@@ -340,7 +340,7 @@ Tidak ada pungutan untuk:
 
 ### A. Bagi Madrasah:
 
-✅ **WAJIB:**
+**WAJIB:**
 
 - Melayani dengan ramah meskipun siswa pindah
 - Mempercepat proses jika mendesak
@@ -348,7 +348,7 @@ Tidak ada pungutan untuk:
 - Menjaga hubungan baik dengan siswa & ortu
 - Tidak menahan dokumen dengan alasan apapun
 
-❌ **DILARANG:**
+**DILARANG:**
 
 - Mempersulit proses mutasi keluar
 - Menunda-nunda penerbitan surat pindah
@@ -357,14 +357,14 @@ Tidak ada pungutan untuk:
 
 ### B. Bagi Siswa/Orang Tua:
 
-✅ **WAJIB:**
+**WAJIB:**
 
 - Mengurus mutasi sesuai prosedur
 - Menyelesaikan semua tanggungan
 - Mengambil dokumen tepat waktu
 - Menjaga hubungan baik
 
-❌ **DILARANG:**
+**DILARANG:**
 
 - Kabur tanpa surat pindah
 - Meninggalkan tunggakan
@@ -404,8 +404,8 @@ Tidak ada pungutan untuk:
 
 Hubungi:
 
-- Kepala TU: [Nomor HP]
-- Waka Kesiswaan: [Nomor HP]
+- Kepala TU: +62 8953-5185-6267
+- Waka Kesiswaan: +62 8953-5185-6267
 - Email: pengaduan@mtsn1pandeglang.sch.id
 - Datang langsung ke ruang TU
 

@@ -382,10 +382,10 @@ Website: www.mtsn1pandeglang.sch.id
 
 **Hotline PPDB:**
 
-- Ketua Panitia: [Nomor HP]
-- Sekretaris: [Nomor HP]
-- Sie. Verifikasi: [Nomor HP]
-- Sie. IT: [Nomor HP]
+- Ketua Panitia: +62 8953-5185-6267
+- Sekretaris: +62 8953-5185-6267
+- Sie. Verifikasi: +62 8953-5185-6267
+- Sie. IT: +62 8953-5185-6267
 
 ---
 

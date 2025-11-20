@@ -463,8 +463,8 @@ Email: tu@mtsn1pandeglang.sch.id
 
 **Kontak Person:**
 
-- Kepala TU: [Nama] - [Nomor HP]
-- Staf TU Bagian Surat-Menyurat: [Nama] - [Nomor HP]
+- Kepala TU: [Nama] - +62 8953-5185-6267
+- Staf TU Bagian Surat-Menyurat: [Nama] - +62 8953-5185-6267
 
 ---
 
@@ -596,7 +596,7 @@ Permohonan dapat ditolak jika:
 
 **Saluran Pengaduan:**
 
-- Kepala TU: [Nomor HP]
+- Kepala TU: +62 8953-5185-6267
 - Email: pengaduan@mtsn1pandeglang.sch.id
 - Kotak saran di loket TU
 - WhatsApp: [Nomor WA]
@@ -628,20 +628,20 @@ Permohonan dapat ditolak jika:
 
 ## 19. TIPS UNTUK PEMOHON
 
-✅ **Agar Proses Cepat:**
+**Agar Proses Cepat:**
 
 - Datang di pagi hari (lebih sepi)
 - Siapkan dokumen lengkap
 - Isi formulir dengan lengkap dan jelas
 - Hubungi via WA untuk cek kesiapan surat
 
-✅ **Yang Perlu Diperhatikan:**
+**Yang Perlu Diperhatikan:**
 
 - Cek kembali data di surat saat menerima
 - Simpan surat di tempat aman
 - Gunakan sesuai keperluan
 
-❌ **Yang Tidak Boleh:**
+**Yang Tidak Boleh:**
 
 - Memalsukan tanda tangan/cap
 - Menggandakan surat tanpa legalisir

@@ -375,8 +375,8 @@ Email: tu@mtsn1pandeglang.sch.id
 
 **Kontak Person:**
 
-- Kepala TU: [Nama] - [Nomor HP]
-- Staf TU Bagian Mutasi: [Nama] - [Nomor HP]
+- Kepala TU: [Nama] - +62 8953-5185-6267
+- Staf TU Bagian Mutasi: [Nama] - +62 8953-5185-6267
 
 ---
 
@@ -479,8 +479,8 @@ Jika ada keluhan terkait proses mutasi masuk:
 
 **Saluran Pengaduan:**
 
-- Kepala TU: [Nomor HP]
-- Waka Kesiswaan: [Nomor HP]
+- Kepala TU: +62 8953-5185-6267
+- Waka Kesiswaan: +62 8953-5185-6267
 - Email: pengaduan@mtsn1pandeglang.sch.id
 - Kotak saran
 
